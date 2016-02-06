@@ -6,7 +6,6 @@
 
 using Testing::ErrorContext;
 
-
 const double POINT_SQUARE_ERROR = 0.00001;
 
 // - - - - - - - - - Tests: class Point - - - - - - - - - -

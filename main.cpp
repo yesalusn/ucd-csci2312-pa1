@@ -3,6 +3,7 @@
 #include <fstream>
 #include <sstream>
 #include <vector>
+#include <stdlib.h>
 
 #include "ErrorContext.h"
 #include "PointTests.h"
@@ -37,6 +38,7 @@ int main() {
     // area tests
     test_area(ec, NumIters);
 
+    system("pause");
 
     return 0;
 }
