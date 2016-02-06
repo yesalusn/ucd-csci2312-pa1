@@ -28,3 +28,7 @@ A seperate class file for calculate area within a triangle is also included.
 
 ####  Debug/Run results of assignment
 *******************************************************
+
+This program was built and compiled on CLion 1.2.4 with
+Cmake 3.3 and MinGW 3.2 and GDB 7.8 using std C++11; on
+a Win7 Home Premium machine.
