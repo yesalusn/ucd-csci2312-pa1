@@ -18,7 +18,7 @@ A seperate class file for calculate area within a triangle is also included.
 
 *******************************************************
 
-####  Source files
+####  Updated source files
 *******************************************************
 -[main.cpp](...blob/master/main.cpp)
 -[Point.cpp](...blob/master/Point.cpp)
